@@ -47,10 +47,10 @@ if (ToggleMap=1)
 
   ; Mouse Movement to Keyboard Map Settings.
   ; Moving mouse towards the direction before "=" presses the key after "=" below.
- ToRight=j
- ToLeft=l
- ToUp=i
- ToDown=k
+ ToRight=d
+ ToLeft=a
+ ToUp=w
+ ToDown=s
 
  MouseMove, x, y         ; Move Mouse Cursor to the center Co-Ordinates.
  Sleep, 5                ; Wait for 5 milli seconds.
